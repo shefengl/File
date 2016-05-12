@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FileScanner</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="send_to">Send \"%s\" using</string>
+    <string name="search_noresults">No results were found for your search</string>
+    <string name="notification">Scanning</string>
+
+    <!-- Labels -->
+    <string name="action_share">Share</string>
+    <string name="title_activity_extension">ExtensionActivity</string>
+</resources>

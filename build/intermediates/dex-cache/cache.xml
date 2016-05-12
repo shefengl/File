@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_805f00730d127260885d73f14b3dca2a84469e9b.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.yalantis\phoenix\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94afda1ba995209d097bf14edf601330e0597f1d">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.yalantis-phoenix-1.2.2_0cd5e565d679634cd0601dd9723cfff44120ff1e.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_517da6aed20e54318d5587e4fd664d805623684a.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_46626fb9e15b5affea2f789783edbfa62534f86b.jar" />
+    </item>
+    <item
+        jar="D:\program\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_27713c4d4285575a3931bfbce8d95339a08f473b.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_276b271ae9e8affcb6c561b8e96b9e7a394b28a2.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\xyz.danoz\recyclerviewfastscroller\0.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="752bfaeaf44b9c4b63c98ceca421348a20ff10be">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\xyz.danoz-recyclerviewfastscroller-0.1.3_ff55719d3bd55fde3598a011407d367e776a5b52.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_943811a89a6912a4cf1491e6047ae3e95c54c5bc.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_10580f4e0dd578949c63247196bbeb193c4e67ec.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_7546a5428ae11e66d92b4d32f3480893645ce4fb.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_e61840b92c9eb241820d553ed0d6171c593babd0.jar" />
+    </item>
+    <item
+        jar="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41a4edf3c43fdbce6eba27da50b17ff9933987f1">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.7_80b6c7a0c49354920b44e9ebc7a5bf9256d981e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\shefeng\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\program\AndroidProject\FileScanner2\FileScanner\FileScanner\app\build\intermediates\pre-dexed\debug\commons-io-2.4_ff0ee36942d85f39716524cc40a8b0058de914ec.jar" />
+    </item>
+
+</items>
